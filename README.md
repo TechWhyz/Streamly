@@ -72,6 +72,17 @@ streamlit run streamly.py
 
 This will start the Streamlit server, and you should see output indicating the local URL where the app is being served, typically `http://localhost:8501`.
 
+## Jump and Run Game
+
+The repository also provides a small demo game located in `jump_and_run.py`.
+You can play it with:
+
+```bash
+python jump_and_run.py
+```
+
+Make sure the requirements are installed (including `pygame`).
+
 ## Using Streamly
 
 After launching Streamly, you can interact with it in the following ways:
